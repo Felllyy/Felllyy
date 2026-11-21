@@ -1,69 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:155E75,100:22D3EE&height=225&section=header&text=FELLY%20ADHIANSYAH&fontColor=FFFFFF&fontSize=41&fontAlignY=36&desc=INFORMATICS%20STUDENT%20%E2%80%A2%20SOFTWARE%20BUILDER&descSize=16&descAlignY=57&animation=fadeIn" width="100%" alt="Felly Adhiansyah — Informatics Student and Software Builder"/>
+# Hi, I'm Felly 👋
 
-### Hi, I'm Felly 👋
+### ☁️ Cloud Computing & 🛡️ Cybersecurity Enthusiast
 
-**Informatics student at Telkom University**  
-Building useful software at the intersection of **web development, algorithms, data, and cloud systems**.
+**Informatics Student @ Telkom University, Indonesia**
 
-[![Profile](https://img.shields.io/badge/GitHub-Felllyy-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felllyy)
-[![Repositories](https://img.shields.io/badge/Explore-My%20Projects-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felllyy?tab=repositories)
+*Learning how infrastructure works, how systems are secured, and how to build reliable tools.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Felllyy-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Felllyy)
+[![Cloud](https://img.shields.io/badge/Focus-Cloud%20Infrastructure-0891B2?style=for-the-badge&logo=linux&logoColor=white)](#what-im-exploring)
+[![Security](https://img.shields.io/badge/Interest-Cybersecurity-155E75?style=for-the-badge&logo=hackthebox&logoColor=white)](#what-im-exploring)
 
 </div>
 
 ---
 
-### ✦ About me
+### `> whoami`
 
-- 🎓 Studying **Informatics** at **Telkom University**, Indonesia
-- 🛠️ Interested in **full-stack development, cloud infrastructure, and applied AI/data**
-- 🧠 Enjoy working on **algorithms, data structures, and practical software challenges**
-- 🚀 Focused on building projects that are useful, understandable, and well documented
+I'm an Informatics student interested in **cloud infrastructure**, **cybersecurity**, and the systems that connect them.
 
-### ⚡ Tech stack
+This GitHub is where I document my learning journey — from experimenting with Linux and networked systems to sharing cloud labs, security writeups, and small tools as I build them.
+
+> **Learn deeply. Document clearly. Build responsibly.**
+
+### `> what-im-exploring`
+
+| ☁️ Cloud & Infrastructure | 🛡️ Cybersecurity | ⚙️ Systems & Automation |
+| :--- | :--- | :--- |
+| Virtual machines & deployments | Network security fundamentals | Linux & shell workflows |
+| Networking & load balancing | Security monitoring & log analysis | Python scripting |
+| Infrastructure architecture | Hands-on labs & CTF practice | Operating systems & networking |
+
+### `> toolbox`
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=linux,python,go,cpp,java,git,github&theme=dark" alt="Linux, Python, Go, C++, Java, Git and GitHub" />
 
-<img src="https://skillicons.dev/icons?i=python,go,java,cpp,js,html,css&theme=dark" alt="Python, Go, Java, C++, JavaScript, HTML, CSS"/>
+<br/><br/>
 
-**Tools & Frameworks**
+![Networking](https://img.shields.io/badge/Networking-0B1220?style=flat-square&logo=cisco&logoColor=22D3EE)
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud%20Infrastructure-0B1220?style=flat-square&logo=icloud&logoColor=22D3EE)
+![Security Fundamentals](https://img.shields.io/badge/Security%20Fundamentals-0B1220?style=flat-square&logo=letsencrypt&logoColor=22D3EE)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,github,linux&theme=dark" alt="Node.js, Express, MySQL, Git, GitHub, Linux"/>
+</div>
+
+### `> this-space-will-grow-into`
+
+- **Cloud labs** — deployment notes, networking experiments, and infrastructure diagrams
+- **Cybersecurity writeups** — lessons learned from labs, challenges, and CTFs
+- **Security tools** — small, documented scripts for learning and defensive automation
+- **Technical notes** — Linux, operating systems, troubleshooting, and security concepts
+
+*These are directions I'm working toward, not claims of completed projects.*
+
+<details>
+<summary><b>📚 Earlier programming & university projects</b></summary>
 
 <br/>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-0B1220?style=flat-square&logo=streamlit&logoColor=FF4B4B)
-![OpenCV](https://img.shields.io/badge/OpenCV-0B1220?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![Sequelize](https://img.shields.io/badge/Sequelize-0B1220?style=flat-square&logo=sequelize&logoColor=52B0E7)
-![SQLite](https://img.shields.io/badge/SQLite-0B1220?style=flat-square&logo=sqlite&logoColor=38BDF8)
+These repositories are part of my coursework and broader programming practice:
 
-</div>
-
-### 🚀 Featured projects
-
-| Project | What I built | Stack |
-|:--|:--|:--|
-| **[MyStatsU](https://github.com/Felllyy/MyStatsU)** | Academic performance dashboard for grades, study hours, insights, and GPA prediction | JavaScript · Node.js · Express · MySQL |
-| **[PadmaGriyaCafe](https://github.com/Felllyy/PadmaGriyaCafe)** | Café operations system for orders, inventory, role-based access, and financial reporting | Java · JSP · MySQL |
-| **[Puzzle World](https://github.com/Felllyy/puzzle-world)** | Image puzzle generator and solver with automatic and manual reconstruction | Python · Streamlit · OpenCV |
-| **[USSD *858# Simulator](https://github.com/Felllyy/layanan_-858-)** | Web-based simulation of balance checks and data-package services | Go · SQLite |
-
-### 📈 GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Felllyy&show_icons=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=22D3EE&text_color=E2E8F0&include_all_commits=true" alt="Felly's GitHub statistics" height="160"/>
-
-</div>
-
-<details>
-<summary>More of my coding projects</summary>
-
-- **[C++ Data Structures Project](https://github.com/Felllyy/Tugas-Besar-IF4802-Kelompok_07)** — Multi-level linked list coursework.
-- **[Startup Management in Go](https://github.com/Felllyy/Tugas-Besar-Alpro-Kelompok-19)** — CRUD, searching, sorting, and reporting for startup information.
+| Repository | Overview |
+| :--- | :--- |
+| [MyStatsU](https://github.com/Felllyy/MyStatsU) | Academic performance dashboard |
+| [PadmaGriyaCafe](https://github.com/Felllyy/PadmaGriyaCafe) | Café management application |
+| [Puzzle World](https://github.com/Felllyy/puzzle-world) | Image puzzle app built with Python and Streamlit |
+| [Other repositories](https://github.com/Felllyy?tab=repositories) | More university assignments and coding projects |
 
 </details>
 
@@ -71,8 +75,8 @@ Building useful software at the intersection of **web development, algorithms, d
 
 <div align="center">
 
-**Keep learning. Keep building. Keep improving.**
+**Curiosity → Practice → Documentation → Improvement**
 
-<sub>Thanks for visiting my GitHub profile ✦</sub>
+<sub>Thanks for exploring my learning journey.</sub>
 
 </div>
